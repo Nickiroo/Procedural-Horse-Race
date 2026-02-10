@@ -1,6 +1,6 @@
 # Procedural-Horse-Race
 
-Feel free to 'play' this procedural horse race @ https://onlinegdb.com/-R-gttciJD
+Feel free to 'play' this procedural horse race @ [https://onlinegdb.com/-R-gttciJD](https://onlinegdb.com/BWT1TjLFg)
 Press run in the top menu bar and press menu to advance the race.
 
 Each horse's turn generates a random number 1-100 - if even the horse advances 1 spot in the race, if odd it stays stationary for 1 turn. If the number is 42 the horse advances 3 spaces, for fun.
